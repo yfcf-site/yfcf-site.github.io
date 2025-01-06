@@ -1,0 +1,9 @@
+Migration log
+
+* Changed: 
+
+<p><img align=middle src="../pix/hr1.gif">
+to
+<p><img align=middle src="../pix/hr1.gif"></p>
+In several html files
+
