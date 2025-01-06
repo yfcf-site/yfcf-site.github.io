@@ -8,11 +8,7 @@ to
 In several html files
 
 
+* Added several <p> to news.html
 
 
-
-
-
-yfcf.html 
-audio.html https://web.archive.org/web/19990222072856im_/http://dewey.rug.ac.be/barn/tex/audio.html
 
