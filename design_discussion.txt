@@ -1,0 +1,68 @@
+* Overall question: Leave the site "as is" with Mementos retrieved from IA or enhance?
+- note that it is to a degree already enhanced because published at different URLs
+=> SYNTAX/LAYOUT
+- correction of obvious layout errors, see e.g. https://youngfarmersclaimfuture.info/barn/tex/cv.html
+- addition of HTML tags (current files don't even have an HTML declaration)?
+- enforce screen width (container), e.g. for rendering on handhelds?
+=> PROVENANCE
+- visible/invisible comments to indicate changes made?
+- banner that indicates resurrected status?
+- Robust Links annotations?
+=> USABILITY
+- migration of existing files to current formats?
+- operational Robust Links via JavaScript injection?
+- strangely enough the site does not have an affordance to go to the "home" page 
+
+* audio files not archived. Linked mainly from audio.html.
+- Are they on the CDPlus? If yes, require migration?
+- If no, how to handle?
+
+* Many links to external pages are 404, e.g. https://youngfarmersclaimfuture.info/barn/tex/sputnick.html . For many no Mementos exist.
+- how to handle?
+- Robust Links annotations?
+
+* email addresses are obviously outdated because @rug.ac.be
+
+* Need an entry page at https://youngfarmersclaimfuture.info with:
+- brief Intro re YFCF
+- links to CDS in Bandcamp
+- links to extras from CDs (to be put on the new site)
+- link (with explanation, including decisions re "Overall question" above) to archived site at https://youngfarmersclaimfuture.info/barn/tex/yfcf.html
+- current contact info?
+
+* The resurrected site has several interesting cases for the application of the Robust Links approach:
+
+=> Link to HTML page on the resurrected site e.g. https://youngfarmersclaimfuture.info/barn/tex/cv.html:
+- href: https://youngfarmersclaimfuture.info/barn/tex/cv.html
+- data-originalurl: http://dewey.rug.ac.be/barn/tex/cv.html
+- data-versionurl: https://web.archive.org/web/19990428113621im_/http://dewey.rug.ac.be/barn/tex/cv.html
+- data-versiondate: 19990428
+
+=> Link to migrated media on the resurrected site e.g. https://youngfarmersclaimfuture.info/barn/quix/f-winterwalk.mp4:
+- href: https://youngfarmersclaimfuture.info/barn/quix/f-winterwalk.mp4
+- data-originalurl: http://dewey.rug.ac.be/barn/quix/f-winterwalk.mov
+- data-versionurl: https://web.archive.org/web/19970715192225im_/http://dewey.rug.ac.be/barn/quix/f-winterwalk.mov
+- data-versiondate: 19990428
+
+=> Link to external page with Memento e.g. http://www.leeds.ac.uk/music.html:
+- href: http://web.archive.org/web/19961019180127/http://www.leeds.ac.uk/music.html
+- data-originalurl: http://www.leeds.ac.uk/music.html
+- data-versionurl: http://web.archive.org/web/19961019180127/http://www.leeds.ac.uk/music.html
+- data-versiondate: 19950509
+
+=> Link to external page with Memento e.g. http://www.leeds.ac.uk/music.html:
+- href: https://web.archive.org/web/19981205170619/http://www.music.indiana.edu/misc/music_resources.html
+- data-originalurl: http://www.music.indiana.edu/misc/music_resources.html
+- data-versionurl: https://web.archive.org/web/19981205170619/http://www.music.indiana.edu/misc/music_resources.html
+- data-versiondate: 19950509
+
+=> Link to external page without Memento, e.g. http://www.yahoo.com/Entertainment/Music/:
+- href: http://www.yahoo.com/Entertainment/Music/
+- data-originalurl: http://www.yahoo.com/Entertainment/Music/
+- data-versiondate: 19950509
+
+
+
+
+
+
