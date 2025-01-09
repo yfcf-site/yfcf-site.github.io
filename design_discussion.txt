@@ -1,9 +1,12 @@
+THE BARN
+========
+
 * Overall question: Leave the site "as is" with Mementos retrieved from IA or enhance?
 - note that it is to a degree already enhanced because published at different URLs
 => SYNTAX/LAYOUT
 - correction of obvious layout errors, see e.g. https://youngfarmersclaimfuture.info/barn/tex/cv.html
 - addition of HTML tags (current files don't even have an HTML declaration)?
-- enforce screen width (container), e.g. for rendering on handhelds?
+- enforce screen width (container), e.g. for rendering on handhelds? The size of hr images and lack of <p> ahead of images following those, suggest resolution of screen intended was 864 × 480p.
 => PROVENANCE
 - visible/invisible comments to indicate changes made?
 - banner that indicates resurrected status?
@@ -11,7 +14,7 @@
 => USABILITY
 - migration of existing files to current formats?
 - operational Robust Links via JavaScript injection?
-- strangely enough the site does not have an affordance to go to the "home" page 
+- strangely enough the site does not have an affordance to go to the "home" page. Could turn hr images into "take me home".
 
 * audio files not archived. Linked mainly from audio.html.
 - Are they on the CDPlus? If yes, require migration?
@@ -22,13 +25,6 @@
 - Robust Links annotations?
 
 * email addresses are obviously outdated because @rug.ac.be
-
-* Need an entry page at https://youngfarmersclaimfuture.info with:
-- brief Intro re YFCF
-- links to CDS in Bandcamp
-- links to extras from CDs (to be put on the new site)
-- link (with explanation, including decisions re "Overall question" above) to archived site at https://youngfarmersclaimfuture.info/barn/tex/yfcf.html
-- current contact info?
 
 * The resurrected site has several interesting cases for the application of the Robust Links approach:
 
@@ -61,8 +57,18 @@
 - data-originalurl: http://www.yahoo.com/Entertainment/Music/
 - data-versiondate: 19950509
 
+YOUNGFARMERSCLAIMFUTURE.INFO
+============================
 
+* Need an entry page at https://youngfarmersclaimfuture.info with:
+- brief Intro re YFCF
+- links to CDS in Bandcamp
+- links to extras from CDs (to be put on the new site)
+- link (with explanation, including decisions re "Overall question" above) to archived site at https://youngfarmersclaimfuture.info/barn/tex/yfcf.html
+- current contact info?
 
+* Additional content, e.g. digitized videos of concerts? Might be achievable via UGent Library and Meemoo
 
+Van de Sompel, H., Hochstenbach, P., and De Pessemier, T. (1997) The hybrid information environment and our Intranet solution to access it (1997) Presented at Fourth South Africa Online Conference - https://hdl.handle.net/1854/LU-1056689
 
 
